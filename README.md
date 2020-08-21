@@ -1,8 +1,8 @@
 ```
 <!--INCLUIR Intro.js (CSS/JS) -->
 
-<link rel="stylesheet" href="introjs.min.css">
-<script src="introjs.min.js">
+**<link rel="stylesheet" href="introjs.min.css">
+<script src="introjs.min.js">**
 
 <!-- INICIALIZAR AUTOMATICAMENTE (Função pode ser chamada no click ou outros eventos) -->
 <script>
