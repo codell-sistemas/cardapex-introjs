@@ -1,20 +1,24 @@
 <h1>Implementação Intro.JS (Tour) em HTML</h1>
 <hr/>
 
-```<!--INCLUIR Intro.js (CSS/JS) -->
-
+<b>INCLUIR Intro.js (CSS/JS)</b>
+```
 <link rel="stylesheet" href="introjs.min.css">
 <script src="introjs.min.js">
+```
 
-<!-- INICIALIZAR AUTOMATICAMENTE (Função pode ser chamada no click ou outros eventos) -->
+<b>INICIALIZAR AUTOMATICAMENTE (Função pode ser chamada no click ou outros eventos)</b>
+```
 <script>
     introJs().start();
 </script>
+```
 
-<!-- NOS ELEMENTOS HTML DA PÁGINA, DEFINIR
+<b> NOS ELEMENTOS HTML DA PÁGINA, DEFINIR
 STEP | INTRO
-EXEMPLO: /templates/dashboard/details.html: -->
+EXEMPLO: /templates/dashboard/details.html: </b>
 
+```
 <div class="card-footer">
 	<div class="botoes-bemvindo">
 		<!-- PASSO 1 -->
