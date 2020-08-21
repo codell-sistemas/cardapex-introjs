@@ -24,4 +24,5 @@ EXEMPLO: /templates/dashboard/details.html: -->
 	</div>
 </div>
 ```
-
+<hr/>
+<h4>Cardapex - IndexNet 2020</h4>
